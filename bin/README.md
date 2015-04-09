@@ -7,7 +7,8 @@
 * Unix平台
 
 	`nohup sh mqbroker &`
-
+### by JJF
+	nohup sh mqbroker -n 10.222.138.171:9876 &
 * Windows平台（仅支持64位）
 
 	`mqbroker.exe`
